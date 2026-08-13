@@ -1,0 +1,369 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NN JSON CLDC 1.0",
+          "description": "Modified version of NN JSON for CLDC 1.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T19:39:29Z",
+            "owner": "gtrxAC",
+            "repo": "discord-j2me",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cibyl",
+          "description": "Environment to compile and run programs written in C, Objective-C, C++ and possibly Fortran on J2ME phones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-17T17:38:32Z",
+            "owner": "SimonKagstrom",
+            "repo": "cibyl",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NN JSON",
+          "description": "JSON parser for CLDC 1.1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-05T04:03:16Z",
+            "owner": "shinovon",
+            "repo": "nnjson",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "J2ME Loader",
+          "description": "J2ME emulator for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T07:42:08Z",
+            "owner": "nikita36078",
+            "repo": "J2ME-Loader",
+            "stars": 2614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeJ2ME",
+          "description": "J2ME emulator with LibRetro, AWT and SDL2 frontends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-27T20:16:41Z",
+            "owner": "hex007",
+            "repo": "freej2me",
+            "stars": 665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KEmulator nnmod",
+          "description": "Open source J2ME emulator in Java, based on KEmulator 1.0.3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T00:59:06Z",
+            "owner": "shinovon",
+            "repo": "KEmulator",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SquirrelJME",
+          "description": "Java ME 8 Virtual Machine for embedded and Internet of Things devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:01:03Z",
+            "owner": "SquirrelJME",
+            "repo": "SquirrelJME",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JL Mod",
+          "description": "Fork of J2ME loader with Mascot capsule v3 support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-11T19:24:46Z",
+            "owner": "woesss",
+            "repo": "JL-Mod",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeJ2ME Plus",
+          "description": "Active fork of FreeJ2ME.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T22:22:26Z",
+            "owner": "TASEmulators",
+            "repo": "freej2me-plus",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS2 J2ME",
+          "description": "J2ME emulator for Firefox OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-28T20:31:08Z",
+            "owner": "szatkus",
+            "repo": "js2me",
+            "stars": 154
+          }
+        }
+      ],
+      "title": "Emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Native Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discord J2ME",
+          "description": "Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T19:39:29Z",
+            "owner": "gtrxAC",
+            "repo": "discord-j2me",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jtube",
+          "description": "YouTube client based on Invidious API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-03-04T17:52:10Z",
+            "owner": "shinovon",
+            "repo": "JTube",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram Micro",
+          "description": "Telegram client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T08:03:39Z",
+            "owner": "faissaloo",
+            "repo": "telegram-micro",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hotpants",
+          "description": "HOTP/TOTP client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-18T10:25:45Z",
+            "owner": "baumschubser",
+            "repo": "hotpants",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VK4ME",
+          "description": "Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-28T10:21:48Z",
+            "owner": "VK4ME",
+            "repo": "client",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pocket Gopher",
+          "description": "Open source Gopher and Gopher+ client for J2ME.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2016-08-19T07:04:48Z",
+            "owner": "felixp7",
+            "repo": "pocket-gopher",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "W4ME Station",
+          "description": "WASM-4 runtime for CLDC 1.1 / MIDP 2.0 phones, with bundled cartridges and support for loading external files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-01T06:52:09Z",
+            "owner": "mulfyx",
+            "repo": "w4me-station",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Symbian",
+          "description": "An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in the early 2000s. It supports J2ME applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-17T09:58:48Z",
+            "owner": "hstsethi",
+            "repo": "awesome-symbian",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "J2ME Preservation",
+          "description": "Archive of various J2ME software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-04-10T13:45:47Z",
+            "owner": "j2me-preservation",
+            "repo": "j2me-preservation",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Related Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Recaf",
+          "description": "Bytecode editor that supports multiple decompilers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T10:20:13Z",
+            "owner": "Col-E",
+            "repo": "Recaf",
+            "stars": 7330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fernflower",
+          "description": "Analytical Java decompiler by JetBrains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T15:01:09Z",
+            "owner": "JetBrains",
+            "repo": "fernflower",
+            "stars": 4359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vineflower",
+          "description": "Fork of Fernflower decompiler with improved output quality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T19:39:46Z",
+            "owner": "Vineflower",
+            "repo": "vineflower",
+            "stars": 2302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sporeflower",
+          "description": "Fork of Vineflower decompiler specially tailored for J2ME.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-12T19:29:34Z",
+            "owner": "hourianto",
+            "repo": "sporeflower",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Decompilers"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:56.599Z",
+    "original_repository": "hstsethi/awesome-j2me",
+    "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
+    "enhanced_repository": "enhansome/enhansome-j2me",
+    "enhanced_repository_description": null,
+    "title": "Awesome J2ME with stars"
+  }
+}
