@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T01:01:03Z",
+            "last_commit": "2026-08-15T02:04:33Z",
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
             "stars": 319
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T03:33:48Z",
+            "last_commit": "2026-08-14T11:36:25Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-07-28T10:20:13Z",
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7332
+            "stars": 7335
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2026-08-13T11:54:06Z",
             "owner": "JetBrains",
             "repo": "fernflower",
-            "stars": 4360
+            "stars": 4361
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2026-07-11T19:39:46Z",
             "owner": "Vineflower",
             "repo": "vineflower",
-            "stars": 2304
+            "stars": 2306
           }
         },
         {
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:53:49.235Z",
+    "last_updated": "2026-08-15T02:46:09.285Z",
     "original_repository": "hstsethi/awesome-j2me",
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
     "enhanced_repository": "enhansome/enhansome-j2me",
