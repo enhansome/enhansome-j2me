@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T19:39:29Z",
+            "last_commit": "2026-08-15T10:26:38Z",
             "owner": "gtrxAC",
             "repo": "discord-j2me",
             "stars": 443
@@ -28,7 +28,7 @@
             "last_commit": "2022-09-17T17:38:32Z",
             "owner": "SimonKagstrom",
             "repo": "cibyl",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-02-06T07:42:08Z",
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2617
+            "stars": 2618
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-13T00:59:06Z",
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 442
+            "stars": 443
           }
         },
         {
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T02:04:33Z",
+            "last_commit": "2026-08-15T22:01:43Z",
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
             "stars": 319
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T11:36:25Z",
+            "last_commit": "2026-08-16T00:44:19Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -168,7 +168,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T19:39:29Z",
+            "last_commit": "2026-08-15T10:26:38Z",
             "owner": "gtrxAC",
             "repo": "discord-j2me",
             "stars": 443
@@ -306,10 +306,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-28T10:20:13Z",
+            "last_commit": "2026-08-16T01:43:08Z",
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7335
+            "stars": 7336
           }
         },
         {
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:46:09.285Z",
+    "last_updated": "2026-08-16T02:51:02.910Z",
     "original_repository": "hstsethi/awesome-j2me",
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
     "enhanced_repository": "enhansome/enhansome-j2me",
