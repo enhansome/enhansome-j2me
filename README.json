@@ -62,7 +62,7 @@
             "last_commit": "2026-02-06T07:42:08Z",
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2618
+            "stars": 2617
           }
         },
         {
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T21:11:08Z",
+            "last_commit": "2026-08-17T23:37:11Z",
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
             "stars": 319
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T01:37:51Z",
+            "last_commit": "2026-08-17T21:54:23Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 188
+            "stars": 189
           }
         },
         {
@@ -306,10 +306,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T01:43:08Z",
+            "last_commit": "2026-08-17T03:40:34Z",
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7338
+            "stars": 7337
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2026-08-13T11:54:06Z",
             "owner": "JetBrains",
             "repo": "fernflower",
-            "stars": 4363
+            "stars": 4364
           }
         },
         {
@@ -334,10 +334,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-11T19:39:46Z",
+            "last_commit": "2026-08-18T01:14:26Z",
             "owner": "Vineflower",
             "repo": "vineflower",
-            "stars": 2309
+            "stars": 2311
           }
         },
         {
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:51:27.160Z",
+    "last_updated": "2026-08-18T02:46:16.163Z",
     "original_repository": "hstsethi/awesome-j2me",
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
     "enhanced_repository": "enhansome/enhansome-j2me",
