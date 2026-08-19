@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 794295669,
             "language": "Java",
             "last_commit": "2026-08-15T10:26:38Z",
             "owner": "gtrxAC",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1212113,
             "language": "C",
             "last_commit": "2022-09-17T17:38:32Z",
             "owner": "SimonKagstrom",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 425476126,
             "language": "Java",
             "last_commit": "2026-07-05T04:03:16Z",
             "owner": "shinovon",
@@ -49,7 +52,7 @@
       "title": "Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91971028,
             "language": "Java",
             "last_commit": "2026-02-06T07:42:08Z",
             "owner": "nikita36078",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104606622,
             "language": "Java",
             "last_commit": "2026-07-27T20:16:41Z",
             "owner": "hex007",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406865548,
             "language": "Java",
             "last_commit": "2026-08-13T00:59:06Z",
             "owner": "shinovon",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65408453,
             "language": "Java",
             "last_commit": "2026-08-19T01:46:51Z",
             "owner": "SquirrelJME",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256694097,
             "language": "C",
             "last_commit": "2026-04-11T19:24:46Z",
             "owner": "woesss",
@@ -128,8 +136,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 855820693,
             "language": "Java",
-            "last_commit": "2026-08-18T23:36:56Z",
+            "last_commit": "2026-08-19T04:11:18Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 189
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10111073,
             "language": "JavaScript",
             "last_commit": "2022-03-28T20:31:08Z",
             "owner": "szatkus",
@@ -153,116 +163,125 @@
       "title": "Emulators"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Discord J2ME",
+              "description": "Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 794295669,
+                "language": "Java",
+                "last_commit": "2026-08-15T10:26:38Z",
+                "owner": "gtrxAC",
+                "repo": "discord-j2me",
+                "stars": 443
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jtube",
+              "description": "YouTube client based on Invidious API.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 425492287,
+                "language": "Java",
+                "last_commit": "2025-03-04T17:52:10Z",
+                "owner": "shinovon",
+                "repo": "JTube",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telegram Micro",
+              "description": "Telegram client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252428123,
+                "language": "Java",
+                "last_commit": "2026-08-10T08:03:39Z",
+                "owner": "faissaloo",
+                "repo": "telegram-micro",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hotpants",
+              "description": "HOTP/TOTP client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214283988,
+                "language": "Java",
+                "last_commit": "2024-03-18T10:25:45Z",
+                "owner": "baumschubser",
+                "repo": "hotpants",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VK4ME",
+              "description": "Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 839292850,
+                "language": "Java",
+                "last_commit": "2025-07-28T10:21:48Z",
+                "owner": "VK4ME",
+                "repo": "client",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pocket Gopher",
+              "description": "Open source Gopher and Gopher+ client for J2ME.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 66059402,
+                "language": "Java",
+                "last_commit": "2016-08-19T07:04:48Z",
+                "owner": "felixp7",
+                "repo": "pocket-gopher",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "W4ME Station",
+              "description": "WASM-4 runtime for CLDC 1.1 / MIDP 2.0 phones, with bundled cartridges and support for loading external files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1312447621,
+                "language": "Java",
+                "last_commit": "2026-08-01T06:52:09Z",
+                "owner": "mulfyx",
+                "repo": "w4me-station",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apps"
+        }
+      ],
       "title": "Native Software"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Discord J2ME",
-          "description": "Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-15T10:26:38Z",
-            "owner": "gtrxAC",
-            "repo": "discord-j2me",
-            "stars": 443
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jtube",
-          "description": "YouTube client based on Invidious API.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2025-03-04T17:52:10Z",
-            "owner": "shinovon",
-            "repo": "JTube",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Telegram Micro",
-          "description": "Telegram client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-10T08:03:39Z",
-            "owner": "faissaloo",
-            "repo": "telegram-micro",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hotpants",
-          "description": "HOTP/TOTP client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-03-18T10:25:45Z",
-            "owner": "baumschubser",
-            "repo": "hotpants",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VK4ME",
-          "description": "Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-07-28T10:21:48Z",
-            "owner": "VK4ME",
-            "repo": "client",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pocket Gopher",
-          "description": "Open source Gopher and Gopher+ client for J2ME.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2016-08-19T07:04:48Z",
-            "owner": "felixp7",
-            "repo": "pocket-gopher",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "W4ME Station",
-          "description": "WASM-4 runtime for CLDC 1.1 / MIDP 2.0 phones, with bundled cartridges and support for loading external files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-01T06:52:09Z",
-            "owner": "mulfyx",
-            "repo": "w4me-station",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Apps"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -271,6 +290,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 963730468,
             "language": "Java",
             "last_commit": "2026-05-17T09:58:48Z",
             "owner": "hstsethi",
@@ -285,6 +305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115764788,
             "language": "HTML",
             "last_commit": "2021-04-10T13:45:47Z",
             "owner": "j2me-preservation",
@@ -296,71 +317,83 @@
       "title": "Related Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Recaf",
-          "description": "Bytecode editor that supports multiple decompilers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T03:40:34Z",
-            "owner": "Col-E",
-            "repo": "Recaf",
-            "stars": 7337
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fernflower",
-          "description": "Analytical Java decompiler by JetBrains.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T03:20:52Z",
-            "owner": "JetBrains",
-            "repo": "fernflower",
-            "stars": 4365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vineflower",
-          "description": "Fork of Fernflower decompiler with improved output quality.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T23:15:22Z",
-            "owner": "Vineflower",
-            "repo": "vineflower",
-            "stars": 2313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sporeflower",
-          "description": "Fork of Vineflower decompiler specially tailored for J2ME.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-12T19:29:34Z",
-            "owner": "hourianto",
-            "repo": "sporeflower",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Recaf",
+              "description": "Bytecode editor that supports multiple decompilers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98499283,
+                "language": "Java",
+                "last_commit": "2026-08-17T03:40:34Z",
+                "owner": "Col-E",
+                "repo": "Recaf",
+                "stars": 7339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fernflower",
+              "description": "Analytical Java decompiler by JetBrains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24747351,
+                "language": "Java",
+                "last_commit": "2026-08-18T03:20:52Z",
+                "owner": "JetBrains",
+                "repo": "fernflower",
+                "stars": 4365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vineflower",
+              "description": "Fork of Fernflower decompiler with improved output quality.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346465436,
+                "language": "Java",
+                "last_commit": "2026-08-18T23:15:22Z",
+                "owner": "Vineflower",
+                "repo": "vineflower",
+                "stars": 2315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sporeflower",
+              "description": "Fork of Vineflower decompiler specially tailored for J2ME.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230008997,
+                "language": "Java",
+                "last_commit": "2026-07-12T19:29:34Z",
+                "owner": "hourianto",
+                "repo": "sporeflower",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Decompilers"
         }
       ],
-      "title": "Decompilers"
+      "title": "Reverse Engineering"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:48:24.690Z",
+    "last_updated": "2026-08-19T12:35:15.190Z",
     "original_repository": "hstsethi/awesome-j2me",
+    "original_repository_id": 665806920,
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
     "enhanced_repository": "enhansome/enhansome-j2me",
     "enhanced_repository_description": null,
