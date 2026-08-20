@@ -15,7 +15,7 @@
             "last_commit": "2026-08-15T10:26:38Z",
             "owner": "gtrxAC",
             "repo": "discord-j2me",
-            "stars": 443
+            "stars": 444
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-02-06T07:42:08Z",
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2621
+            "stars": 2620
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 855820693,
             "language": "Java",
-            "last_commit": "2026-08-19T04:11:18Z",
+            "last_commit": "2026-08-19T21:15:40Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-15T10:26:38Z",
                 "owner": "gtrxAC",
                 "repo": "discord-j2me",
-                "stars": 443
+                "stars": 444
               }
             },
             {
@@ -295,7 +295,7 @@
             "last_commit": "2026-05-17T09:58:48Z",
             "owner": "hstsethi",
             "repo": "awesome-symbian",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 98499283,
                 "language": "Java",
-                "last_commit": "2026-08-17T03:40:34Z",
+                "last_commit": "2026-08-19T22:39:47Z",
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7339
+                "stars": 7341
               }
             },
             {
@@ -391,7 +391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:15.190Z",
+    "last_updated": "2026-08-20T02:47:09.164Z",
     "original_repository": "hstsethi/awesome-j2me",
     "original_repository_id": 665806920,
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
