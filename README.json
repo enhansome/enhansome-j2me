@@ -66,7 +66,7 @@
             "last_commit": "2026-02-06T07:42:08Z",
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2622
+            "stars": 2625
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 65408453,
             "language": "Java",
-            "last_commit": "2026-08-21T22:35:58Z",
+            "last_commit": "2026-08-22T06:19:24Z",
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
             "stars": 319
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 855820693,
             "language": "Java",
-            "last_commit": "2026-08-22T02:14:51Z",
+            "last_commit": "2026-08-23T02:32:51Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 191
@@ -333,7 +333,7 @@
                 "last_commit": "2026-08-22T01:53:52Z",
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7341
+                "stars": 7344
               }
             },
             {
@@ -391,7 +391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:44:49.023Z",
+    "last_updated": "2026-08-23T02:53:15.790Z",
     "original_repository": "hstsethi/awesome-j2me",
     "original_repository_id": 665806920,
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
