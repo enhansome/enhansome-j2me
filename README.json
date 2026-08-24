@@ -47,6 +47,28 @@
             "repo": "nnjson",
             "stars": 30
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "J2ME Polish",
+              "description": "Open source, Ant-based build tool for J2ME that supports building for multiple platforms including Blackberry and Symbian.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2036600,
+                "language": "Java",
+                "last_commit": "2014-05-07T07:55:30Z",
+                "owner": "Enough-Software",
+                "repo": "j2mepolish",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SDKs"
         }
       ],
       "title": "Development"
@@ -66,7 +88,7 @@
             "last_commit": "2026-02-06T07:42:08Z",
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2628
+            "stars": 2631
           }
         },
         {
@@ -93,10 +115,10 @@
             "archived": false,
             "id": 406865548,
             "language": "Java",
-            "last_commit": "2026-08-13T00:59:06Z",
+            "last_commit": "2026-08-24T04:00:39Z",
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 446
+            "stars": 447
           }
         },
         {
@@ -138,7 +160,7 @@
             "archived": false,
             "id": 855820693,
             "language": "Java",
-            "last_commit": "2026-08-24T02:24:07Z",
+            "last_commit": "2026-08-24T03:07:37Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 191
@@ -209,7 +231,7 @@
                 "last_commit": "2026-08-10T08:03:39Z",
                 "owner": "faissaloo",
                 "repo": "telegram-micro",
-                "stars": 95
+                "stars": 96
               }
             },
             {
@@ -276,6 +298,28 @@
           "description": null,
           "node_type": "group",
           "title": "Apps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gravity Defied CPP",
+              "description": "C++, SDL2 port of J2ME game of the same name.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431446432,
+                "language": "C++",
+                "last_commit": "2025-05-12T20:13:00Z",
+                "owner": "rgimad",
+                "repo": "gravity_defied_cpp",
+                "stars": 174
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video Games"
         }
       ],
       "title": "Native Software"
@@ -320,6 +364,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "PyLng",
+          "description": "HandyGames .lng file parser written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 768513187,
+            "language": "Java",
+            "last_commit": "2024-03-07T08:19:05Z",
+            "owner": "CakesTwix",
+            "repo": "pylng",
+            "stars": 4
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -348,7 +407,7 @@
                 "last_commit": "2026-08-21T08:46:05Z",
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4368
+                "stars": 4370
               }
             },
             {
@@ -391,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:54:00.011Z",
+    "last_updated": "2026-08-24T14:25:38.182Z",
     "original_repository": "hstsethi/awesome-j2me",
     "original_repository_id": 665806920,
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",

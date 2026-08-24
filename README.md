@@ -10,7 +10,7 @@ Please give it a star(⭐) to raise awareness about J2ME community, and support 
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,329 | 🐛 106 | 📅 2026-08-21, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 48,830 | 🐛 3 | 📅 2026-08-24 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 48,835 | 🐛 3 | 📅 2026-08-24 and more.
 
 ## Contents
 
@@ -53,9 +53,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ### SDKs
 
+* [J2ME Polish](https://github.com/Enough-Software/j2mepolish) ⭐ 68 | 🐛 3 | 🌐 Java | 📅 2014-05-07 - Open source, Ant-based build tool for J2ME that supports building for multiple platforms including Blackberry and Symbian.
 * [Extra Transit Mobile Interaction Suite](http://web.archive.org/web/20070210202710/http://www.extransit.com) - IDE and SDK for J2ME specializing in the development of internet-based applications.
 * [Hecl](https://www.hecl.org) - A mobile scripting language based on Java, capable of running on J2ME-based devices.
-* [J2ME Polish](https://github.com/Enough-Software/j2mepolish) ⭐ 68 | 🐛 3 | 🌐 Java | 📅 2014-05-07 - Open source, Ant-based build tool for J2ME that supports building for multiple platforms including Blackberry and Symbian.
 * [MBooster](https://web.archive.org/web/20070314004015/http://innaworks.com/mBooster.html) - Optimizing suite for .jar files. Compresses images, audio, zip files, and optimizes API calls.
 * [Micro Code](https://web.archive.org/web/20061225061546/http://j2me-device-db.sourceforge.net/pmwiki/index.php?n=Main.HomePage) - Cross-device development framework for J2ME. Supports more than 100 devices.
 * [Sony Ericsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sony Ericsson devices. Can run Mascot capsule software too.
@@ -65,9 +65,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ## Emulators
 
-* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,628 | 🐛 219 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
+* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,631 | 🐛 219 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
 * [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 667 | 🐛 66 | 🌐 Java | 📅 2026-07-27 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
-* [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 446 | 🐛 73 | 🌐 Java | 📅 2026-08-13 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
+* [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 447 | 🐛 73 | 🌐 Java | 📅 2026-08-24 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
 * [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 320 | 🐛 61 | 🌐 Java | 📅 2026-08-22 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
 * [JL Mod](https://github.com/woesss/JL-Mod) ⭐ 303 | 🐛 49 | 🌐 C | 📅 2026-04-11 - Fork of J2ME loader with Mascot capsule v3 support.
 * [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 191 | 🐛 30 | 🌐 Java | 📅 2026-08-24 - Active fork of FreeJ2ME.
@@ -89,7 +89,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 * [Discord J2ME](https://github.com/gtrxAC/discord-j2me) ⭐ 445 | 🐛 11 | 🌐 Java | 📅 2026-08-23 - Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
 * [Jtube](https://github.com/shinovon/JTube) ⚠️ Archived - YouTube client based on Invidious API.
-* [Telegram Micro](https://github.com/faissaloo/telegram-micro) ⭐ 95 | 🐛 2 | 🌐 Java | 📅 2026-08-10 - Telegram client.
+* [Telegram Micro](https://github.com/faissaloo/telegram-micro) ⭐ 96 | 🐛 2 | 🌐 Java | 📅 2026-08-10 - Telegram client.
 * [Hotpants](https://github.com/baumschubser/hotpants/) ⭐ 78 | 🐛 0 | 🌐 Java | 📅 2024-03-18 - HOTP/TOTP client.
 * [VK4ME](https://github.com/VK4ME/client) ⭐ 24 | 🐛 2 | 🌐 Java | 📅 2025-07-28  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
 * [Pocket Gopher](https://github.com/felixp7/pocket-gopher) ⚠️ Archived - Open source Gopher and Gopher+ client for J2ME.
@@ -123,7 +123,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 ### Decompilers
 
 * [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,349 | 🐛 66 | 🌐 Java | 📅 2026-08-22 - Bytecode editor that supports multiple decompilers.
-* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,368 | 🐛 0 | 🌐 Java | 📅 2026-08-21 - Analytical Java decompiler by JetBrains.
+* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,370 | 🐛 0 | 🌐 Java | 📅 2026-08-21 - Analytical Java decompiler by JetBrains.
 * [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,320 | 🐛 94 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
 * [Sporeflower](https://github.com/hourianto/sporeflower) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2026-07-12 - Fork of Vineflower decompiler specially tailored for J2ME.
 * [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.
