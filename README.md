@@ -10,7 +10,7 @@ Please give it a star(⭐) to raise awareness about J2ME community, and support 
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,014 | 🐛 106 | 📅 2026-08-21, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 48,818 | 🐛 3 | 📅 2026-08-19 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,329 | 🐛 106 | 📅 2026-08-21, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 48,830 | 🐛 3 | 📅 2026-08-24 and more.
 
 ## Contents
 
@@ -39,9 +39,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ## Development
 
-* [NN JSON CLDC 1.0](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) ⭐ 444 | 🐛 11 | 🌐 Java | 📅 2026-08-15 - Modified version of NN JSON for CLDC 1.0.
+* [NN JSON CLDC 1.0](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) ⭐ 445 | 🐛 11 | 🌐 Java | 📅 2026-08-23 - Modified version of NN JSON for CLDC 1.0.
 * [Cibyl](https://github.com/SimonKagstrom/cibyl) ⭐ 70 | 🐛 3 | 🌐 C | 📅 2022-09-17 - Environment to compile and run programs written in C, Objective-C, C++ and possibly Fortran on J2ME phones.
-* [NN JSON](https://github.com/shinovon/NNJSON) ⭐ 29 | 🐛 2 | 🌐 Java | 📅 2026-07-05 - JSON parser for CLDC 1.1.
+* [NN JSON](https://github.com/shinovon/NNJSON) ⭐ 30 | 🐛 2 | 🌐 Java | 📅 2026-07-05 - JSON parser for CLDC 1.1.
 * [J2ME Game Script Engine](https://j2megamescript.sourceforge.net/) - A lightweight script interpreter for building flexible J2ME games, with a BASIC-like scripting language. Runs on J2SE/J2ME/Win C++ platforms; ideal for game rapid prototyping and customization.
 * [J2ME Gradle template](https://gitea.bedohswe.eu.org/pixtaded/j2me-hello-gradle) - Gradle template for J2ME development using Microemulator.
 * [Lightweight User Interface Toolkit(LWUIT)](https://en.wikipedia.org/wiki/Lightweight_User_Interface_Toolkit) - Swing inspired widget toolkit for J2ME.
@@ -65,12 +65,12 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ## Emulators
 
-* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,625 | 🐛 219 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
+* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,628 | 🐛 219 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
 * [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 667 | 🐛 66 | 🌐 Java | 📅 2026-07-27 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
-* [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 445 | 🐛 73 | 🌐 Java | 📅 2026-08-13 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
-* [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 319 | 🐛 61 | 🌐 Java | 📅 2026-08-22 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
+* [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 446 | 🐛 73 | 🌐 Java | 📅 2026-08-13 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
+* [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 320 | 🐛 61 | 🌐 Java | 📅 2026-08-22 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
 * [JL Mod](https://github.com/woesss/JL-Mod) ⭐ 303 | 🐛 49 | 🌐 C | 📅 2026-04-11 - Fork of J2ME loader with Mascot capsule v3 support.
-* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 191 | 🐛 32 | 🌐 Java | 📅 2026-08-23 - Active fork of FreeJ2ME.
+* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 191 | 🐛 30 | 🌐 Java | 📅 2026-08-24 - Active fork of FreeJ2ME.
 * [JS2 J2ME](https://github.com/szatkus/js2me) ⭐ 154 | 🐛 8 | 🌐 JavaScript | 📅 2022-03-28 - J2ME emulator for Firefox OS.
 * [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 
@@ -87,7 +87,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ### Apps
 
-* [Discord J2ME](https://github.com/gtrxAC/discord-j2me) ⭐ 444 | 🐛 11 | 🌐 Java | 📅 2026-08-15 - Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
+* [Discord J2ME](https://github.com/gtrxAC/discord-j2me) ⭐ 445 | 🐛 11 | 🌐 Java | 📅 2026-08-23 - Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
 * [Jtube](https://github.com/shinovon/JTube) ⚠️ Archived - YouTube client based on Invidious API.
 * [Telegram Micro](https://github.com/faissaloo/telegram-micro) ⭐ 95 | 🐛 2 | 🌐 Java | 📅 2026-08-10 - Telegram client.
 * [Hotpants](https://github.com/baumschubser/hotpants/) ⭐ 78 | 🐛 0 | 🌐 Java | 📅 2024-03-18 - HOTP/TOTP client.
@@ -122,9 +122,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ### Decompilers
 
-* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,344 | 🐛 66 | 🌐 Java | 📅 2026-08-22 - Bytecode editor that supports multiple decompilers.
-* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,366 | 🐛 0 | 🌐 Java | 📅 2026-08-21 - Analytical Java decompiler by JetBrains.
-* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,318 | 🐛 94 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
+* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,349 | 🐛 66 | 🌐 Java | 📅 2026-08-22 - Bytecode editor that supports multiple decompilers.
+* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,368 | 🐛 0 | 🌐 Java | 📅 2026-08-21 - Analytical Java decompiler by JetBrains.
+* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,320 | 🐛 94 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
 * [Sporeflower](https://github.com/hourianto/sporeflower) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2026-07-12 - Fork of Vineflower decompiler specially tailored for J2ME.
 * [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.
 * [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
@@ -155,4 +155,4 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
