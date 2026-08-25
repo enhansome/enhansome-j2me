@@ -392,7 +392,7 @@
                 "last_commit": "2026-08-22T01:53:52Z",
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7349
+                "stars": 7351
               }
             },
             {
@@ -404,7 +404,7 @@
                 "archived": false,
                 "id": 24747351,
                 "language": "Java",
-                "last_commit": "2026-08-21T08:46:05Z",
+                "last_commit": "2026-08-25T03:30:35Z",
                 "owner": "JetBrains",
                 "repo": "fernflower",
                 "stars": 4370
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:49:29.331Z",
+    "last_updated": "2026-08-25T06:20:18.571Z",
     "original_repository": "hstsethi/awesome-j2me",
     "original_repository_id": 665806920,
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",

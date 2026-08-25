@@ -10,7 +10,7 @@ Please give it a star(⭐) to raise awareness about J2ME community, and support 
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,651 | 🐛 106 | 📅 2026-08-21, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 48,839 | 🐛 3 | 📅 2026-08-24 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,704 | 🐛 106 | 📅 2026-08-21, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 48,840 | 🐛 3 | 📅 2026-08-24 and more.
 
 ## Contents
 
@@ -122,8 +122,8 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ### Decompilers
 
-* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,349 | 🐛 66 | 🌐 Java | 📅 2026-08-22 - Bytecode editor that supports multiple decompilers.
-* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,370 | 🐛 0 | 🌐 Java | 📅 2026-08-21 - Analytical Java decompiler by JetBrains.
+* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,351 | 🐛 66 | 🌐 Java | 📅 2026-08-22 - Bytecode editor that supports multiple decompilers.
+* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,370 | 🐛 0 | 🌐 Java | 📅 2026-08-25 - Analytical Java decompiler by JetBrains.
 * [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,321 | 🐛 94 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
 * [Sporeflower](https://github.com/hourianto/sporeflower) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2026-07-12 - Fork of Vineflower decompiler specially tailored for J2ME.
 * [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.
