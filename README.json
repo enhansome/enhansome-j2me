@@ -130,7 +130,7 @@
             "archived": false,
             "id": 65408453,
             "language": "Java",
-            "last_commit": "2026-08-22T06:19:24Z",
+            "last_commit": "2026-08-24T23:49:02Z",
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
             "stars": 320
@@ -160,7 +160,7 @@
             "archived": false,
             "id": 855820693,
             "language": "Java",
-            "last_commit": "2026-08-24T03:07:37Z",
+            "last_commit": "2026-08-24T23:05:02Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 191
@@ -422,7 +422,7 @@
                 "last_commit": "2026-08-18T23:15:22Z",
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2320
+                "stars": 2321
               }
             },
             {
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:38.182Z",
+    "last_updated": "2026-08-25T02:49:29.331Z",
     "original_repository": "hstsethi/awesome-j2me",
     "original_repository_id": 665806920,
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
