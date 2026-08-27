@@ -88,7 +88,7 @@
             "last_commit": "2026-02-06T07:42:08Z",
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2633
+            "stars": 2638
           }
         },
         {
@@ -160,7 +160,7 @@
             "archived": false,
             "id": 855820693,
             "language": "Java",
-            "last_commit": "2026-08-26T02:25:20Z",
+            "last_commit": "2026-08-27T06:43:38Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 191
@@ -313,7 +313,7 @@
                 "last_commit": "2025-05-12T20:13:00Z",
                 "owner": "rgimad",
                 "repo": "gravity_defied_cpp",
-                "stars": 174
+                "stars": 175
               }
             }
           ],
@@ -339,7 +339,7 @@
             "last_commit": "2026-05-17T09:58:48Z",
             "owner": "hstsethi",
             "repo": "awesome-symbian",
-            "stars": 136
+            "stars": 137
           }
         },
         {
@@ -392,7 +392,7 @@
                 "last_commit": "2026-08-22T01:53:52Z",
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7353
+                "stars": 7355
               }
             },
             {
@@ -404,10 +404,10 @@
                 "archived": false,
                 "id": 24747351,
                 "language": "Java",
-                "last_commit": "2026-08-25T03:30:35Z",
+                "last_commit": "2026-08-26T14:21:00Z",
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4369
+                "stars": 4371
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-08-18T23:15:22Z",
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2323
+                "stars": 2328
               }
             },
             {
@@ -450,9 +450,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:55:33.893Z",
-    "original_repository": "hstsethi/awesome-j2me",
-    "original_repository_id": 665806920,
+    "last_updated": "2026-08-27T11:48:09.047Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 665806920,
+      "language": "Java",
+      "last_commit": "2026-07-28T03:38:34Z",
+      "owner": "hstsethi",
+      "repo": "awesome-j2me",
+      "stars": 410
+    },
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
     "enhanced_repository": "enhansome/enhansome-j2me",
     "enhanced_repository_description": null,
