@@ -16,7 +16,8 @@
             "owner": "gtrxAC",
             "repo": "discord-j2me",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "SimonKagstrom",
             "repo": "cibyl",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "shinovon",
             "repo": "nnjson",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "children": [
@@ -63,7 +66,8 @@
                 "owner": "Enough-Software",
                 "repo": "j2mepolish",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             }
           ],
           "description": null,
@@ -89,7 +93,8 @@
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
             "stars": 2638
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "node_type": "item",
@@ -103,8 +108,9 @@
             "last_commit": "2026-07-27T20:16:41Z",
             "owner": "hex007",
             "repo": "freej2me",
-            "stars": 667
-          }
+            "stars": 668
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "shinovon",
             "repo": "KEmulator",
             "stars": 447
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "node_type": "item",
@@ -133,8 +140,9 @@
             "last_commit": "2026-08-24T23:49:02Z",
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
-            "stars": 320
-          }
+            "stars": 321
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "woesss",
             "repo": "JL-Mod",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "node_type": "item",
@@ -160,11 +169,12 @@
             "archived": false,
             "id": 855820693,
             "language": "Java",
-            "last_commit": "2026-08-27T06:43:38Z",
+            "last_commit": "2026-08-27T20:31:57Z",
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "node_type": "item",
@@ -179,7 +189,8 @@
             "owner": "szatkus",
             "repo": "js2me",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         }
       ],
       "title": "Emulators"
@@ -202,7 +213,8 @@
                 "owner": "gtrxAC",
                 "repo": "discord-j2me",
                 "stars": 445
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             },
             {
               "node_type": "item",
@@ -217,7 +229,8 @@
                 "owner": "shinovon",
                 "repo": "JTube",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             },
             {
               "node_type": "item",
@@ -232,7 +245,8 @@
                 "owner": "faissaloo",
                 "repo": "telegram-micro",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             },
             {
               "node_type": "item",
@@ -247,7 +261,8 @@
                 "owner": "baumschubser",
                 "repo": "hotpants",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             },
             {
               "node_type": "item",
@@ -262,7 +277,8 @@
                 "owner": "VK4ME",
                 "repo": "client",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             },
             {
               "node_type": "item",
@@ -277,7 +293,8 @@
                 "owner": "felixp7",
                 "repo": "pocket-gopher",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             },
             {
               "node_type": "item",
@@ -292,7 +309,8 @@
                 "owner": "mulfyx",
                 "repo": "w4me-station",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             }
           ],
           "description": null,
@@ -314,7 +332,8 @@
                 "owner": "rgimad",
                 "repo": "gravity_defied_cpp",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             }
           ],
           "description": null,
@@ -340,7 +359,8 @@
             "owner": "hstsethi",
             "repo": "awesome-symbian",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "node_type": "item",
@@ -355,7 +375,8 @@
             "owner": "j2me-preservation",
             "repo": "j2me-preservation",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         }
       ],
       "title": "Related Projects"
@@ -376,7 +397,8 @@
             "owner": "CakesTwix",
             "repo": "pylng",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T13:29:00.927Z"
         },
         {
           "children": [
@@ -392,8 +414,9 @@
                 "last_commit": "2026-08-22T01:53:52Z",
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7355
-              }
+                "stars": 7358
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             },
             {
               "node_type": "item",
@@ -407,8 +430,9 @@
                 "last_commit": "2026-08-26T14:21:00Z",
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4371
-              }
+                "stars": 4374
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             },
             {
               "node_type": "item",
@@ -422,8 +446,9 @@
                 "last_commit": "2026-08-18T23:15:22Z",
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2329
-              }
+                "stars": 2330
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             },
             {
               "node_type": "item",
@@ -438,7 +463,8 @@
                 "owner": "hourianto",
                 "repo": "sporeflower",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:29:00.927Z"
             }
           ],
           "description": null,
@@ -450,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:25.173Z",
+    "last_updated": "2026-08-28T13:29:00.927Z",
     "original_repository_info": {
       "archived": false,
       "id": 665806920,
