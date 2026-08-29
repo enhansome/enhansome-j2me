@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Discord client for Java ME (MIDP 1.0 & 2.0) devices",
+            "homepage": "https://gtrxac.fi/j2me",
             "id": 794295669,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-23T18:55:34Z",
+            "open_issues": 12,
             "owner": "gtrxAC",
             "repo": "discord-j2me",
-            "stars": 445
+            "stars": 445,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A MIPS to Java bytecode binary translator",
+            "homepage": "http://cibyl.org",
             "id": 1212113,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2022-09-17T17:38:32Z",
+            "open_issues": 3,
             "owner": "SimonKagstrom",
             "repo": "cibyl",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -42,12 +52,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON library for Java, compatible with CLDC & JDK 1.1",
+            "homepage": null,
             "id": 425476126,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-05T04:03:16Z",
+            "open_issues": 2,
             "owner": "shinovon",
             "repo": "nnjson",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "j2me",
+              "json",
+              "json-library"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -60,12 +79,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The J2ME Polish project",
+                "homepage": "http://www.enough.de/products/j2me-polish/",
                 "id": 2036600,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-05-07T07:55:30Z",
+                "open_issues": 3,
                 "owner": "Enough-Software",
                 "repo": "j2mepolish",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             }
@@ -87,12 +111,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A J2ME emulator for Android.",
+            "homepage": null,
             "id": 91971028,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-06T07:42:08Z",
+            "open_issues": 219,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2638
+            "stars": 2639,
+            "topics": [
+              "android",
+              "emulator",
+              "j2me",
+              "javame"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -103,12 +137,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free J2ME emulator with libretro, awt and sdl2 frontends.",
+            "homepage": null,
             "id": 104606622,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-27T20:16:41Z",
+            "open_issues": 66,
             "owner": "hex007",
             "repo": "freej2me",
-            "stars": 668
+            "stars": 669,
+            "topics": [
+              "awt",
+              "emulator",
+              "emulator-frontend",
+              "j2me",
+              "libretro",
+              "sdl2",
+              "sdl2-frontends"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -119,12 +166,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KEmulator nnmod",
+            "homepage": "https://nnproject.cc/kem",
             "id": 406865548,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-24T04:00:39Z",
+            "open_issues": 73,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 447
+            "stars": 449,
+            "topics": [
+              "j2me"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -135,12 +189,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SquirrelJME is a Java ME 8 Virtual Machine for embedded and Internet of Things devices. It has the ultimate goal of being 99.9% compatible with the Java ME standard.",
+            "homepage": "https://squirreljme.cc/",
             "id": 65408453,
             "language": "Java",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-24T23:49:02Z",
+            "open_issues": 61,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
-            "stars": 321
+            "stars": 321,
+            "topics": [
+              "c",
+              "compiler",
+              "embedded",
+              "iot",
+              "j2me",
+              "j2me-platform",
+              "java",
+              "java-me",
+              "javame",
+              "jvm",
+              "libretro",
+              "native",
+              "ratufacoat",
+              "retroarch",
+              "squirreljme"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -151,12 +226,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "J2ME emulator for Android (unofficial fork of https://github.com/nikita36078/J2ME-Loader)",
+            "homepage": null,
             "id": 256694097,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-11T19:24:46Z",
+            "open_issues": 49,
             "owner": "woesss",
             "repo": "JL-Mod",
-            "stars": 304
+            "stars": 304,
+            "topics": [
+              "android",
+              "j2me",
+              "j2me-emulator",
+              "java",
+              "opengles-android"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -167,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free J2ME emulator with libretro, awt and sdl2 frontends.",
+            "homepage": "https://tasemulators.github.io/freej2me-plus/",
             "id": 855820693,
             "language": "Java",
-            "last_commit": "2026-08-27T20:31:57Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:53:33Z",
+            "open_issues": 34,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -183,12 +274,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "J2ME implementation in JavaScript",
+            "homepage": null,
             "id": 10111073,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-28T20:31:08Z",
+            "open_issues": 8,
             "owner": "szatkus",
             "repo": "js2me",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "j2me"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         }
@@ -207,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord client for Java ME (MIDP 1.0 & 2.0) devices",
+                "homepage": "https://gtrxac.fi/j2me",
                 "id": 794295669,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-23T18:55:34Z",
+                "open_issues": 12,
                 "owner": "gtrxAC",
                 "repo": "discord-j2me",
-                "stars": 445
+                "stars": 445,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             },
@@ -223,12 +326,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Youtube client based on Invidious API for Java devices with MIDP 2.0 support",
+                "homepage": "https://nnp.nnchan.ru/jtube",
                 "id": 425492287,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-03-04T17:52:10Z",
+                "open_issues": 9,
                 "owner": "shinovon",
                 "repo": "JTube",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "invidious",
+                  "j2me",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             },
@@ -239,12 +351,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram implementation for J2ME devices",
+                "homepage": null,
                 "id": 252428123,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-10T08:03:39Z",
+                "open_issues": 2,
                 "owner": "faissaloo",
                 "repo": "telegram-micro",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "j2me",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             },
@@ -255,12 +375,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HOTP/TOTP one time passwords on java phones (J2ME)",
+                "homepage": null,
                 "id": 214283988,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2024-03-18T10:25:45Z",
+                "open_issues": 0,
                 "owner": "baumschubser",
                 "repo": "hotpants",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "hotp",
+                  "hotp-generator",
+                  "j2me",
+                  "j2me-platform",
+                  "java-me",
+                  "one-time-pad",
+                  "otp",
+                  "otp-generator",
+                  "totp",
+                  "totp-generator"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             },
@@ -271,12 +407,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial J2ME application for the most popular Russian social site, VK.",
+                "homepage": "https://vk4me.crx.moe",
                 "id": 839292850,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-28T10:21:48Z",
+                "open_issues": 2,
                 "owner": "VK4ME",
                 "repo": "client",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "homebrew",
+                  "j2me",
+                  "j2me-platform",
+                  "vk",
+                  "vkontakte",
+                  "vkontakte-client"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             },
@@ -287,12 +435,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "a basic Gopher client for mobile devices",
+                "homepage": "https://felix.plesoianu.ro/mobile/pocket-gopher/",
                 "id": 66059402,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2016-08-19T07:04:48Z",
+                "open_issues": 0,
                 "owner": "felixp7",
                 "repo": "pocket-gopher",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "gopher",
+                  "gopher-client",
+                  "j2me",
+                  "j2me-platform",
+                  "java-me"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             },
@@ -303,12 +462,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run WASM-4 games on Java ME phones — CLDC 1.1 / MIDP 2.0",
+                "homepage": null,
                 "id": 1312447621,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-01T06:52:09Z",
+                "open_issues": 0,
                 "owner": "mulfyx",
                 "repo": "w4me-station",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "cldc",
+                  "feature-phones",
+                  "interpreter",
+                  "j2me",
+                  "java",
+                  "java-me",
+                  "midp",
+                  "midp2",
+                  "mobile-gaming",
+                  "retro-gaming",
+                  "virtual-machine",
+                  "wasm",
+                  "wasm4",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             }
@@ -326,12 +505,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rewrite Gravity Defied mobile game from Java to C++ & SDL",
+                "homepage": null,
                 "id": 431446432,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2025-05-12T20:13:00Z",
+                "open_issues": 9,
                 "owner": "rgimad",
                 "repo": "gravity_defied_cpp",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "cpp",
+                  "gamedev",
+                  "gravity-defied",
+                  "j2me",
+                  "sdl",
+                  "sdl2"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             }
@@ -353,12 +544,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
+            "homepage": null,
             "id": 963730468,
             "language": "Java",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-17T09:58:48Z",
+            "open_issues": 1,
             "owner": "hstsethi",
             "repo": "awesome-symbian",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cpp",
+              "eikon",
+              "epoc",
+              "flash",
+              "flash-lite",
+              "hacktoberfest",
+              "j2me",
+              "midp",
+              "n-gage",
+              "ngage",
+              "nokia",
+              "qt",
+              "s40",
+              "s60",
+              "sony-ericsson",
+              "symbian",
+              "symbiancpp",
+              "uiq"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -369,12 +586,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of tools, info, links and discussion for a long-term solution of J2ME emulation",
+            "homepage": null,
             "id": 115764788,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-04-10T13:45:47Z",
+            "open_issues": 2,
             "owner": "j2me-preservation",
             "repo": "j2me-preservation",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "cldc",
+              "j2me",
+              "midp"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         }
@@ -391,12 +617,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple .lng File Parser from HandyGames games",
+            "homepage": null,
             "id": 768513187,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-03-07T08:19:05Z",
+            "open_issues": 0,
             "owner": "CakesTwix",
             "repo": "pylng",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "deepl",
+              "handygames",
+              "javagame",
+              "lng",
+              "parser",
+              "python",
+              "translate"
+            ]
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
         },
@@ -409,12 +648,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The modern Java bytecode editor",
+                "homepage": "https://recaf.coley.software",
                 "id": 98499283,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-22T01:53:52Z",
+                "open_issues": 66,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7358
+                "stars": 7359,
+                "topics": [
+                  "agent",
+                  "asm",
+                  "bytecode",
+                  "bytecode-engineering",
+                  "bytecode-manipulation",
+                  "decompile",
+                  "decompiler",
+                  "java",
+                  "java-decompiler",
+                  "javafx",
+                  "javafx-application",
+                  "jvm-bytecode",
+                  "reverse-engineering",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             },
@@ -425,12 +684,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decompiler from Java bytecode to Java, used in IntelliJ IDEA.",
+                "homepage": "https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine",
                 "id": 24747351,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T14:21:00Z",
+                "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4374
+                "stars": 4374,
+                "topics": [
+                  "decompiler",
+                  "java",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             },
@@ -441,12 +709,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.",
+                "homepage": "https://vineflower.org/",
                 "id": 346465436,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T23:15:22Z",
+                "open_issues": 94,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2330
+                "stars": 2331,
+                "topics": [
+                  "decompiler",
+                  "fernflower",
+                  "hacktoberfest",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             },
@@ -457,12 +735,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A J2ME-focused fork of Vineflower, aimed at semantically correct, recompilable output.",
+                "homepage": null,
                 "id": 1230008997,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-12T19:29:34Z",
+                "open_issues": 0,
                 "owner": "hourianto",
                 "repo": "sporeflower",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "cldc",
+                  "decompiler",
+                  "decompiler-java",
+                  "j2me",
+                  "java-decompiler",
+                  "midp"
+                ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
             }
@@ -476,15 +766,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:29:00.927Z",
+    "last_updated": "2026-08-29T04:43:24.784Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
+      "homepage": null,
       "id": 665806920,
       "language": "Java",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-28T03:38:34Z",
+      "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-j2me",
-      "stars": 410
+      "stars": 410,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cldc",
+        "dumbphone",
+        "hacktoberfest",
+        "j2me",
+        "j2me-emulator",
+        "j2me-platform",
+        "java",
+        "java-platform",
+        "javame",
+        "keypad",
+        "midlet",
+        "midp",
+        "nokia",
+        "resources",
+        "retrogaming",
+        "s40",
+        "samsung",
+        "symbian"
+      ]
     },
     "original_repository_sha": "7d55f506c8271450fcb09ca9d44e60e029dcce40",
     "enhanced_repository": "enhansome/enhansome-j2me",
