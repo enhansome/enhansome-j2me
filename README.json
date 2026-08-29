@@ -171,7 +171,7 @@
             "id": 406865548,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-08-24T04:00:39Z",
+            "last_commit": "2026-08-29T05:41:12Z",
             "open_issues": 73,
             "owner": "shinovon",
             "repo": "KEmulator",
@@ -258,7 +258,7 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T02:53:33Z",
+            "last_commit": "2026-08-29T05:06:32Z",
             "open_issues": 34,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
@@ -657,7 +657,7 @@
                 "open_issues": 66,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7359,
+                "stars": 7361,
                 "topics": [
                   "agent",
                   "asm",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:24.784Z",
+    "last_updated": "2026-08-29T08:23:06.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
