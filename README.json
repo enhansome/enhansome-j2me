@@ -120,7 +120,7 @@
             "open_issues": 219,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2639,
+            "stars": 2640,
             "topics": [
               "android",
               "emulator",
@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-24T23:49:02Z",
+            "last_commit": "2026-08-30T06:10:11Z",
             "open_issues": 61,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -258,8 +258,8 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T05:06:32Z",
-            "open_issues": 34,
+            "last_commit": "2026-08-30T02:30:46Z",
+            "open_issues": 30,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 191,
@@ -657,7 +657,7 @@
                 "open_issues": 66,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7361,
+                "stars": 7362,
                 "topics": [
                   "agent",
                   "asm",
@@ -693,7 +693,7 @@
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4374,
+                "stars": 4376,
                 "topics": [
                   "decompiler",
                   "java",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:23:06.129Z",
+    "last_updated": "2026-08-30T07:36:55.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
