@@ -15,7 +15,7 @@
             "id": 794295669,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-23T18:55:34Z",
+            "last_commit": "2026-09-01T06:35:46Z",
             "open_issues": 12,
             "owner": "gtrxAC",
             "repo": "discord-j2me",
@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-31T00:36:11Z",
+            "last_commit": "2026-08-31T22:47:04Z",
             "open_issues": 61,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -258,7 +258,7 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T01:22:42Z",
+            "last_commit": "2026-09-01T03:57:00Z",
             "open_issues": 31,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
@@ -310,7 +310,7 @@
                 "id": 794295669,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-23T18:55:34Z",
+                "last_commit": "2026-09-01T06:35:46Z",
                 "open_issues": 12,
                 "owner": "gtrxAC",
                 "repo": "discord-j2me",
@@ -384,7 +384,7 @@
                 "open_issues": 0,
                 "owner": "baumschubser",
                 "repo": "hotpants",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "hotp",
                   "hotp-generator",
@@ -657,7 +657,7 @@
                 "open_issues": 66,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7361,
+                "stars": 7364,
                 "topics": [
                   "agent",
                   "asm",
@@ -718,7 +718,7 @@
                 "open_issues": 95,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2331,
+                "stars": 2332,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:49:23.170Z",
+    "last_updated": "2026-09-01T06:55:25.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
