@@ -10,7 +10,7 @@ Please give it a star(⭐) to raise awareness about J2ME community, and support 
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 502,125 | 🐛 105 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 48,909 | 🐛 6 | 📅 2026-08-24 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 502,486 | 🐛 105 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 48,916 | 🐛 7 | 📅 2026-08-24 and more.
 
 ## Contents
 
@@ -68,9 +68,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 * [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,642 | 🐛 220 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
 * [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 669 | 🐛 66 | 🌐 Java | 📅 2026-08-30 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
 * [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 451 | 🐛 73 | 🌐 Java | 📅 2026-08-29 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
-* [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 321 | 🐛 61 | 🌐 Java | 📅 2026-09-02 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
-* [JL Mod](https://github.com/woesss/JL-Mod) ⭐ 304 | 🐛 49 | 🌐 C | 📅 2026-04-11 - Fork of J2ME loader with Mascot capsule v3 support.
-* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 193 | 🐛 26 | 🌐 Java | 📅 2026-09-02 - Active fork of FreeJ2ME.
+* [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 321 | 🐛 61 | 🌐 Java | 📅 2026-09-03 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
+* [JL Mod](https://github.com/woesss/JL-Mod) ⭐ 305 | 🐛 49 | 🌐 C | 📅 2026-04-11 - Fork of J2ME loader with Mascot capsule v3 support.
+* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 195 | 🐛 23 | 🌐 Java | 📅 2026-09-03 - Active fork of FreeJ2ME.
 * [JS2 J2ME](https://github.com/szatkus/js2me) ⭐ 154 | 🐛 8 | 🌐 JavaScript | 📅 2022-03-28 - J2ME emulator for Firefox OS.
 * [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 
@@ -122,9 +122,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ### Decompilers
 
-* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,365 | 🐛 66 | 🌐 Java | 📅 2026-08-22 - Bytecode editor that supports multiple decompilers.
-* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,380 | 🐛 0 | 🌐 Java | 📅 2026-08-26 - Analytical Java decompiler by JetBrains.
-* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,335 | 🐛 95 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
+* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,367 | 🐛 66 | 🌐 Java | 📅 2026-08-22 - Bytecode editor that supports multiple decompilers.
+* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,385 | 🐛 0 | 🌐 Java | 📅 2026-09-02 - Analytical Java decompiler by JetBrains.
+* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,337 | 🐛 95 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
 * [Sporeflower](https://github.com/hourianto/sporeflower) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2026-07-12 - Fork of Vineflower decompiler specially tailored for J2ME.
 * [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.
 * [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
@@ -132,7 +132,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 ## Tutorials
 
 * [J2ME In Nutshell](https://www.oreilly.com/library/view/j2me-in-a/059600253X) - "Solid, no-nonsense reference to the 'alphabet soup' of micro edition programming, covering the CLDC, CDC, KVM and more."
-* [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) ⭐ 70 | 🐛 1 | 📅 2026-08-20 - A quick guide to revive the legacy Nokia N95 and develop for it.
+* [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) ⭐ 71 | 🐛 1 | 📅 2026-08-20 - A quick guide to revive the legacy Nokia N95 and develop for it.
 * [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
 * [Java ME 3.4 Developer's Guide for NetBeans on Windows](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/html/toc.htm) - Official tutorial on SDK 3.4, NetBeans on Windows variant.
 * [J2ME Performance Tips](https://web.archive.org/web/20050223040231/https://www.javaperformancetuning.com/tips/j2me.shtml#REF25) - Performance optimization tips specific to J2ME development.
@@ -155,4 +155,4 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
