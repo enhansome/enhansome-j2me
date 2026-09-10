@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-09T01:56:04Z",
+            "last_commit": "2026-09-10T02:47:05Z",
             "open_issues": 61,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -258,7 +258,7 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T05:20:05Z",
+            "last_commit": "2026-09-10T05:10:37Z",
             "open_issues": 16,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
@@ -514,7 +514,7 @@
                 "open_issues": 9,
                 "owner": "rgimad",
                 "repo": "gravity_defied_cpp",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "cpp",
                   "gamedev",
@@ -553,7 +553,7 @@
             "open_issues": 1,
             "owner": "hstsethi",
             "repo": "awesome-symbian",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "awesome",
               "awesome-list",
@@ -657,7 +657,7 @@
                 "open_issues": 65,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7377,
+                "stars": 7379,
                 "topics": [
                   "agent",
                   "asm",
@@ -693,7 +693,7 @@
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4391,
+                "stars": 4392,
                 "topics": [
                   "decompiler",
                   "java",
@@ -718,7 +718,7 @@
                 "open_issues": 103,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2350,
+                "stars": 2352,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:50:51.857Z",
+    "last_updated": "2026-09-10T06:47:01.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -778,7 +778,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-j2me",
-      "stars": 415,
+      "stars": 417,
       "topics": [
         "awesome",
         "awesome-list",
