@@ -120,7 +120,7 @@
             "open_issues": 221,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2647,
+            "stars": 2648,
             "topics": [
               "android",
               "emulator",
@@ -175,7 +175,7 @@
             "open_issues": 71,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "j2me"
             ]
@@ -258,11 +258,11 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T23:38:58Z",
+            "last_commit": "2026-09-13T03:08:21Z",
             "open_issues": 15,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 200,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
@@ -653,11 +653,11 @@
                 "id": 98499283,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-09T03:14:04Z",
+                "last_commit": "2026-09-12T16:28:46Z",
                 "open_issues": 65,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7381,
+                "stars": 7383,
                 "topics": [
                   "agent",
                   "asm",
@@ -718,7 +718,7 @@
                 "open_issues": 103,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2357,
+                "stars": 2358,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:38:57.409Z",
+    "last_updated": "2026-09-13T06:55:21.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -778,7 +778,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-j2me",
-      "stars": 417,
+      "stars": 418,
       "topics": [
         "awesome",
         "awesome-list",
