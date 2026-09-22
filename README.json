@@ -120,7 +120,7 @@
             "open_issues": 221,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2656,
+            "stars": 2658,
             "topics": [
               "android",
               "emulator",
@@ -194,8 +194,8 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-21T01:27:24Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-22T00:38:06Z",
+            "open_issues": 41,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
             "stars": 321,
@@ -258,11 +258,11 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T23:19:41Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-21T21:27:45Z",
+            "open_issues": 21,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 205,
+            "stars": 204,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
@@ -657,7 +657,7 @@
                 "open_issues": 64,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7391,
+                "stars": 7393,
                 "topics": [
                   "agent",
                   "asm",
@@ -689,7 +689,7 @@
                 "id": 24747351,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T15:50:53Z",
+                "last_commit": "2026-09-22T03:37:09Z",
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:22:16.978Z",
+    "last_updated": "2026-09-22T06:59:12.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
