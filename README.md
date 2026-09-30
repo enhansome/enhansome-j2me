@@ -6,11 +6,11 @@
 
 <!--lint disable double-link-->
 
-Please give it a star(⭐) to raise awareness about J2ME community, and support the development of this project. Read about introduction, setup-process, and history of Awesome J2ME in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian) ⭐ 142 | 🐛 1 | 🌐 Java | 📅 2026-05-17.
+Please give it a star(⭐) to raise awareness about J2ME community, and support the development of this project. Read about introduction, setup-process, and history of Awesome J2ME in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian) ⭐ 143 | 🐛 1 | 🌐 Java | 📅 2026-05-17.
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 512,141 | 🐛 106 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,117 | 🐛 6 | 📅 2026-09-23 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 512,584 | 🐛 106 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,122 | 🐛 9 | 📅 2026-09-23 and more.
 
 ## Contents
 
@@ -65,12 +65,12 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ## Emulators
 
-* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,672 | 🐛 222 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
+* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,674 | 🐛 222 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
 * [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 677 | 🐛 66 | 🌐 Java | 📅 2026-08-30 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
 * [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 463 | 🐛 72 | 🌐 Java | 📅 2026-09-27 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
-* [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 321 | 🐛 43 | 🌐 Java | 📅 2026-09-29 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
+* [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 321 | 🐛 43 | 🌐 Java | 📅 2026-09-30 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
 * [JL Mod](https://github.com/woesss/JL-Mod) ⭐ 315 | 🐛 50 | 🌐 C | 📅 2026-04-11 - Fork of J2ME loader with Mascot capsule v3 support.
-* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 209 | 🐛 15 | 🌐 Java | 📅 2026-09-29 - Active fork of FreeJ2ME.
+* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 209 | 🐛 16 | 🌐 Java | 📅 2026-09-30 - Active fork of FreeJ2ME.
 * [JS2 J2ME](https://github.com/szatkus/js2me) ⭐ 154 | 🐛 8 | 🌐 JavaScript | 📅 2022-03-28 - J2ME emulator for Firefox OS.
 * [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 
@@ -110,7 +110,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ## Related Projects
 
-* [Awesome Symbian](https://github.com/hstsethi/awesome-symbian) ⭐ 142 | 🐛 1 | 🌐 Java | 📅 2026-05-17 - An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in the early 2000s. It supports J2ME applications.
+* [Awesome Symbian](https://github.com/hstsethi/awesome-symbian) ⭐ 143 | 🐛 1 | 🌐 Java | 📅 2026-05-17 - An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in the early 2000s. It supports J2ME applications.
 * [J2ME Preservation](https://github.com/j2me-preservation/j2me-preservation) ⭐ 46 | 🐛 2 | 🌐 HTML | 📅 2021-04-10 - Archive of various J2ME software.
 * [Cell Phone Game Preservation Wiki](https://cellphonegamespreservation.miraheze.org/wiki/Main_Page) - Wiki dedicated to phone preservation, including emulation and game dumps.
 * [J2ME Fandom](https://j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
@@ -122,9 +122,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ### Decompilers
 
-* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,401 | 🐛 65 | 🌐 Java | 📅 2026-09-26 - Bytecode editor that supports multiple decompilers.
-* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,409 | 🐛 0 | 🌐 Java | 📅 2026-09-29 - Analytical Java decompiler by JetBrains.
-* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,374 | 🐛 104 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
+* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,404 | 🐛 65 | 🌐 Java | 📅 2026-09-26 - Bytecode editor that supports multiple decompilers.
+* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,410 | 🐛 0 | 🌐 Java | 📅 2026-09-29 - Analytical Java decompiler by JetBrains.
+* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,378 | 🐛 105 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
 * [Sporeflower](https://github.com/hourianto/sporeflower) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2026-09-24 - Fork of Vineflower decompiler specially tailored for J2ME.
 * [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.
 * [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
@@ -155,4 +155,4 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
