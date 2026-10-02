@@ -88,7 +88,7 @@
                 "open_issues": 3,
                 "owner": "Enough-Software",
                 "repo": "j2mepolish",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
@@ -120,7 +120,7 @@
             "open_issues": 222,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2676,
+            "stars": 2678,
             "topics": [
               "android",
               "emulator",
@@ -175,7 +175,7 @@
             "open_issues": 72,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 463,
+            "stars": 464,
             "topics": [
               "j2me"
             ]
@@ -194,8 +194,8 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-01T00:51:36Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-02T05:16:18Z",
+            "open_issues": 42,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
             "stars": 321,
@@ -258,8 +258,8 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T23:47:26Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-02T01:45:22Z",
+            "open_issues": 19,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 209,
@@ -689,11 +689,11 @@
                 "id": 24747351,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T03:50:13Z",
+                "last_commit": "2026-10-01T14:22:48Z",
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4412,
+                "stars": 4413,
                 "topics": [
                   "decompiler",
                   "java",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T07:56:05.729Z",
+    "last_updated": "2026-10-02T07:41:02.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -778,7 +778,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-j2me",
-      "stars": 426,
+      "stars": 427,
       "topics": [
         "awesome",
         "awesome-list",
