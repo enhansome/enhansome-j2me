@@ -10,7 +10,7 @@ Please give it a star(⭐) to raise awareness about J2ME community, and support 
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 515,316 | 🐛 106 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,174 | 🐛 13 | 📅 2026-09-23 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 515,364 | 🐛 106 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,179 | 🐛 13 | 📅 2026-09-23 and more.
 
 ## Contents
 
@@ -65,7 +65,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ## Emulators
 
-* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,680 | 🐛 222 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
+* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,681 | 🐛 222 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
 * [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 679 | 🐛 66 | 🌐 Java | 📅 2026-10-04 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
 * [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 470 | 🐛 70 | 🌐 Java | 📅 2026-10-04 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
 * [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 321 | 🐛 42 | 🌐 Java | 📅 2026-10-06 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
