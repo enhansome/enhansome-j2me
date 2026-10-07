@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-06T07:40:35Z",
+            "last_commit": "2026-10-07T02:35:37Z",
             "open_issues": 42,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -262,7 +262,7 @@
             "open_issues": 19,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "mulfyx",
                 "repo": "w4me-station",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "cldc",
                   "feature-phones",
@@ -657,7 +657,7 @@
                 "open_issues": 65,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7410,
+                "stars": 7412,
                 "topics": [
                   "agent",
                   "asm",
@@ -689,7 +689,7 @@
                 "id": 24747351,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T03:56:24Z",
+                "last_commit": "2026-10-06T22:25:23Z",
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
@@ -715,7 +715,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-18T23:15:22Z",
-                "open_issues": 105,
+                "open_issues": 104,
                 "owner": "Vineflower",
                 "repo": "vineflower",
                 "stars": 2386,
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:44:56.849Z",
+    "last_updated": "2026-10-07T07:50:33.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
