@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "gtrxAC",
             "repo": "discord-j2me",
-            "stars": 447,
+            "stars": 448,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-10T05:55:12Z",
+            "last_commit": "2026-10-11T06:21:34Z",
             "open_issues": 42,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -259,7 +259,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-10-10T05:24:08Z",
-            "open_issues": 19,
+            "open_issues": 22,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 213,
@@ -314,7 +314,7 @@
                 "open_issues": 14,
                 "owner": "gtrxAC",
                 "repo": "discord-j2me",
-                "stars": 447,
+                "stars": 448,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
@@ -550,7 +550,7 @@
             "language": "Java",
             "license": "CC0-1.0",
             "last_commit": "2026-10-09T08:52:35Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "hstsethi",
             "repo": "awesome-symbian",
             "stars": 144,
@@ -718,7 +718,7 @@
                 "open_issues": 104,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2390,
+                "stars": 2393,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:51:25.856Z",
+    "last_updated": "2026-10-11T07:58:29.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
