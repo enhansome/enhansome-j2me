@@ -120,7 +120,7 @@
             "open_issues": 222,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2690,
+            "stars": 2691,
             "topics": [
               "android",
               "emulator",
@@ -175,7 +175,7 @@
             "open_issues": 70,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 473,
+            "stars": 475,
             "topics": [
               "j2me"
             ]
@@ -262,7 +262,7 @@
             "open_issues": 22,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
@@ -653,11 +653,11 @@
                 "id": 98499283,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-26T16:06:18Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-14T05:49:45Z",
+                "open_issues": 62,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7426,
+                "stars": 7430,
                 "topics": [
                   "agent",
                   "asm",
@@ -693,7 +693,7 @@
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4422,
+                "stars": 4423,
                 "topics": [
                   "decompiler",
                   "java",
@@ -718,7 +718,7 @@
                 "open_issues": 105,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2396,
+                "stars": 2400,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:38:57.077Z",
+    "last_updated": "2026-10-14T06:51:36.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
