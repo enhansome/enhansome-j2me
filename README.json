@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-21T03:49:44Z",
+            "last_commit": "2026-10-22T03:40:35Z",
             "open_issues": 41,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -657,7 +657,7 @@
                 "open_issues": 62,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7441,
+                "stars": 7442,
                 "topics": [
                   "agent",
                   "asm",
@@ -693,7 +693,7 @@
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4426,
+                "stars": 4427,
                 "topics": [
                   "decompiler",
                   "java",
@@ -718,7 +718,7 @@
                 "open_issues": 106,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2422,
+                "stars": 2423,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:43:14.544Z",
+    "last_updated": "2026-10-22T06:46:38.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
