@@ -10,7 +10,7 @@ Please give it a star(⭐) to raise awareness about J2ME community, and support 
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 522,521 | 🐛 105 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,325 | 🐛 25 | 📅 2026-09-23 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 523,284 | 🐛 105 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,316 | 🐛 26 | 📅 2026-09-23 and more.
 
 ## Contents
 
@@ -65,12 +65,12 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ## Emulators
 
-* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,710 | 🐛 218 | 🌐 C | 📅 2026-10-20 - J2ME emulator for Android.
-* [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 682 | 🐛 66 | 🌐 Java | 📅 2026-10-04 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
+* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,712 | 🐛 219 | 🌐 C | 📅 2026-10-22 - J2ME emulator for Android.
+* [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 683 | 🐛 66 | 🌐 Java | 📅 2026-10-04 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
 * [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 482 | 🐛 73 | 🌐 Java | 📅 2026-10-19 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
-* [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 324 | 🐛 41 | 🌐 Java | 📅 2026-10-22 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
+* [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 324 | 🐛 41 | 🌐 Java | 📅 2026-10-23 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
 * [JL Mod](https://github.com/woesss/JL-Mod) ⭐ 321 | 🐛 50 | 🌐 C | 📅 2026-04-11 - Fork of J2ME loader with Mascot capsule v3 support.
-* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 216 | 🐛 29 | 🌐 Java | 📅 2026-10-17 - Active fork of FreeJ2ME.
+* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 217 | 🐛 30 | 🌐 Java | 📅 2026-10-17 - Active fork of FreeJ2ME.
 * [JS2 J2ME](https://github.com/szatkus/js2me) ⭐ 154 | 🐛 8 | 🌐 JavaScript | 📅 2022-03-28 - J2ME emulator for Firefox OS.
 * [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 
@@ -100,7 +100,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ### Video Games
 
-* [Gravity Defied CPP](https://github.com/rgimad/gravity_defied_cpp) ⭐ 179 | 🐛 9 | 🌐 C++ | 📅 2025-05-12 - C++, SDL2 port of J2ME game of the same name.
+* [Gravity Defied CPP](https://github.com/rgimad/gravity_defied_cpp) ⭐ 180 | 🐛 9 | 🌐 C++ | 📅 2025-05-12 - C++, SDL2 port of J2ME game of the same name.
 * [Kahvibreak](https://bluemaxima.org/kahvibreak) - Collection of J2ME games.
 * [Moby Games](https://www.mobygames.com/platform/j2me) - Database of J2ME games with links to official stores.
 * [The "New" J2ME software archive](https://archive.org/details/96x65pixels_j2me) - 74GB+, sorted collection of J2ME games.
@@ -123,9 +123,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 ### Decompilers
 
 * [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,442 | 🐛 62 | 🌐 Java | 📅 2026-10-18 - Bytecode editor that supports multiple decompilers.
-* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,427 | 🐛 0 | 🌐 Java | 📅 2026-10-20 - Analytical Java decompiler by JetBrains.
-* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,423 | 🐛 106 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
-* [Sporeflower](https://github.com/hourianto/sporeflower) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-09-24 - Fork of Vineflower decompiler specially tailored for J2ME.
+* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,428 | 🐛 0 | 🌐 Java | 📅 2026-10-20 - Analytical Java decompiler by JetBrains.
+* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 2,424 | 🐛 106 | 🌐 Java | 📅 2026-08-18 - Fork of Fernflower decompiler with improved output quality.
+* [Sporeflower](https://github.com/hourianto/sporeflower) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-10-22 - Fork of Vineflower decompiler specially tailored for J2ME.
 * [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.
 * [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
 
@@ -155,4 +155,4 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
