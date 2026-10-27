@@ -120,7 +120,7 @@
             "open_issues": 215,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2715,
+            "stars": 2717,
             "topics": [
               "android",
               "emulator",
@@ -146,7 +146,7 @@
             "open_issues": 66,
             "owner": "hex007",
             "repo": "freej2me",
-            "stars": 684,
+            "stars": 686,
             "topics": [
               "awt",
               "emulator",
@@ -172,10 +172,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-10-26T01:08:10Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 488,
+            "stars": 490,
             "topics": [
               "j2me"
             ]
@@ -194,11 +194,11 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-26T06:35:57Z",
+            "last_commit": "2026-10-27T06:05:40Z",
             "open_issues": 41,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "c",
               "compiler",
@@ -235,7 +235,7 @@
             "open_issues": 50,
             "owner": "woesss",
             "repo": "JL-Mod",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "android",
               "j2me",
@@ -262,7 +262,7 @@
             "open_issues": 30,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
-            "stars": 218,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
@@ -553,7 +553,7 @@
             "open_issues": 1,
             "owner": "hstsethi",
             "repo": "awesome-symbian",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "awesome",
               "awesome-list",
@@ -595,7 +595,7 @@
             "open_issues": 2,
             "owner": "j2me-preservation",
             "repo": "j2me-preservation",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "cldc",
               "j2me",
@@ -657,7 +657,7 @@
                 "open_issues": 61,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7441,
+                "stars": 7444,
                 "topics": [
                   "agent",
                   "asm",
@@ -689,11 +689,11 @@
                 "id": 24747351,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T11:14:33Z",
+                "last_commit": "2026-10-26T12:53:31Z",
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4430,
+                "stars": 4431,
                 "topics": [
                   "decompiler",
                   "java",
@@ -714,11 +714,11 @@
                 "id": 346465436,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-18T23:15:22Z",
-                "open_issues": 106,
+                "last_commit": "2026-10-27T02:36:11Z",
+                "open_issues": 104,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2430,
+                "stars": 2433,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:10:54.879Z",
+    "last_updated": "2026-10-27T06:58:10.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
