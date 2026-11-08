@@ -120,7 +120,7 @@
             "open_issues": 212,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2739,
+            "stars": 2742,
             "topics": [
               "android",
               "emulator",
@@ -175,7 +175,7 @@
             "open_issues": 73,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 497,
+            "stars": 498,
             "topics": [
               "j2me"
             ]
@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-07T06:21:22Z",
+            "last_commit": "2026-11-08T07:57:20Z",
             "open_issues": 41,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -258,8 +258,8 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T23:01:25Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-07T22:19:37Z",
+            "open_issues": 17,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 222,
@@ -514,7 +514,7 @@
                 "open_issues": 9,
                 "owner": "rgimad",
                 "repo": "gravity_defied_cpp",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "cpp",
                   "gamedev",
@@ -657,7 +657,7 @@
                 "open_issues": 61,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7456,
+                "stars": 7455,
                 "topics": [
                   "agent",
                   "asm",
@@ -738,9 +738,9 @@
                 "description": "A J2ME-focused reverse-engineering, decompilation and remapping toolkit, aimed at semantically correct, recompilable output.",
                 "homepage": null,
                 "id": 1230008997,
-                "language": "Java",
+                "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T08:19:46Z",
+                "last_commit": "2026-11-07T18:37:34Z",
                 "open_issues": 0,
                 "owner": "hourianto",
                 "repo": "sporeflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:56:07.686Z",
+    "last_updated": "2026-11-08T08:14:15.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -778,7 +778,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-j2me",
-      "stars": 431,
+      "stars": 433,
       "topics": [
         "awesome",
         "awesome-list",
