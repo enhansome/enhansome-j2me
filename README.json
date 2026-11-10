@@ -117,7 +117,7 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-08T20:10:12Z",
-            "open_issues": 204,
+            "open_issues": 205,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
             "stars": 2744,
@@ -146,7 +146,7 @@
             "open_issues": 66,
             "owner": "hex007",
             "repo": "freej2me",
-            "stars": 687,
+            "stars": 688,
             "topics": [
               "awt",
               "emulator",
@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-09T07:14:19Z",
+            "last_commit": "2026-11-09T23:28:57Z",
             "open_issues": 41,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -657,7 +657,7 @@
                 "open_issues": 61,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7454,
+                "stars": 7455,
                 "topics": [
                   "agent",
                   "asm",
@@ -689,11 +689,11 @@
                 "id": 24747351,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T10:03:20Z",
+                "last_commit": "2026-11-10T03:41:36Z",
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4436,
+                "stars": 4439,
                 "topics": [
                   "decompiler",
                   "java",
@@ -718,7 +718,7 @@
                 "open_issues": 104,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2455,
+                "stars": 2454,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -735,12 +735,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A J2ME-focused reverse-engineering, decompilation and remapping toolkit, aimed at semantically correct, recompilable output.",
+                "description": "Sporeflower is a J2ME-focused Java decompiler and a remapping toolkit, aimed at semantically correct, recompilable output.",
                 "homepage": null,
                 "id": 1230008997,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T21:44:59Z",
+                "last_commit": "2026-11-10T00:40:13Z",
                 "open_issues": 0,
                 "owner": "hourianto",
                 "repo": "sporeflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T08:48:53.763Z",
+    "last_updated": "2026-11-10T08:54:42.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
