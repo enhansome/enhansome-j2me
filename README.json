@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "gtrxAC",
             "repo": "discord-j2me",
-            "stars": 455,
+            "stars": 456,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
@@ -120,7 +120,7 @@
             "open_issues": 205,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2744,
+            "stars": 2743,
             "topics": [
               "android",
               "emulator",
@@ -146,7 +146,7 @@
             "open_issues": 66,
             "owner": "hex007",
             "repo": "freej2me",
-            "stars": 688,
+            "stars": 689,
             "topics": [
               "awt",
               "emulator",
@@ -172,10 +172,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-11-06T00:02:57Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "j2me"
             ]
@@ -194,11 +194,11 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-09T23:28:57Z",
+            "last_commit": "2026-11-11T07:25:38Z",
             "open_issues": 41,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
-            "stars": 327,
+            "stars": 329,
             "topics": [
               "c",
               "compiler",
@@ -235,7 +235,7 @@
             "open_issues": 50,
             "owner": "woesss",
             "repo": "JL-Mod",
-            "stars": 324,
+            "stars": 326,
             "topics": [
               "android",
               "j2me",
@@ -258,8 +258,8 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T22:19:37Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-10T21:47:08Z",
+            "open_issues": 16,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 222,
@@ -314,7 +314,7 @@
                 "open_issues": 14,
                 "owner": "gtrxAC",
                 "repo": "discord-j2me",
-                "stars": 455,
+                "stars": 456,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
@@ -657,7 +657,7 @@
                 "open_issues": 61,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7455,
+                "stars": 7461,
                 "topics": [
                   "agent",
                   "asm",
@@ -718,7 +718,7 @@
                 "open_issues": 104,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2454,
+                "stars": 2455,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -740,7 +740,7 @@
                 "id": 1230008997,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T00:40:13Z",
+                "last_commit": "2026-11-10T12:52:49Z",
                 "open_issues": 0,
                 "owner": "hourianto",
                 "repo": "sporeflower",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:54:42.902Z",
+    "last_updated": "2026-11-11T08:34:28.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -778,7 +778,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-j2me",
-      "stars": 436,
+      "stars": 438,
       "topics": [
         "awesome",
         "awesome-list",
