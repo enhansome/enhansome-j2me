@@ -37,7 +37,7 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2022-09-17T17:38:32Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "SimonKagstrom",
             "repo": "cibyl",
             "stars": 70,
@@ -120,7 +120,7 @@
             "open_issues": 205,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2747,
+            "stars": 2750,
             "topics": [
               "android",
               "emulator",
@@ -175,7 +175,7 @@
             "open_issues": 74,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 500,
+            "stars": 502,
             "topics": [
               "j2me"
             ]
@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-14T07:39:39Z",
+            "last_commit": "2026-11-15T06:23:34Z",
             "open_issues": 41,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -301,7 +301,7 @@
             {
               "node_type": "item",
               "title": "Discord J2ME",
-              "description": "Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.",
+              "description": "(Discontinued) Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -490,6 +490,27 @@
                 ]
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Discofi",
+              "description": "Unofficial Discord client for J2ME, designed to connect directly to Discord without a proxy. Supports select devices (Nokia and Sony Ericsson).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Discord client for legacy Java devices (Nokia/Sony Ericsson J2ME version)",
+                "homepage": null,
+                "id": 1393652400,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-11-14T15:10:37Z",
+                "open_issues": 0,
+                "owner": "gtrxAC",
+                "repo": "Discofi",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T08:34:48.394Z"
             }
           ],
           "description": null,
@@ -657,7 +678,7 @@
                 "open_issues": 61,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7467,
+                "stars": 7468,
                 "topics": [
                   "agent",
                   "asm",
@@ -693,7 +714,7 @@
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4444,
+                "stars": 4445,
                 "topics": [
                   "decompiler",
                   "java",
@@ -718,7 +739,7 @@
                 "open_issues": 104,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2463,
+                "stars": 2465,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -766,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:15:10.925Z",
+    "last_updated": "2026-11-15T08:34:48.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -774,7 +795,7 @@
       "id": 665806920,
       "language": "Java",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-13T04:52:38Z",
+      "last_commit": "2026-11-15T04:33:12Z",
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-j2me",
@@ -802,7 +823,7 @@
         "symbian"
       ]
     },
-    "original_repository_sha": "9a64e302ec8471270d1f0572bf19522311705207",
+    "original_repository_sha": "c1a32c1f00c502d0bc2446c5ef538308b77c1f9a",
     "enhanced_repository": "enhansome/enhansome-j2me",
     "enhanced_repository_description": null,
     "title": "Awesome J2ME with stars"
