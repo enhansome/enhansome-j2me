@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "gtrxAC",
             "repo": "discord-j2me",
-            "stars": 455,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
@@ -117,10 +117,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-08T20:10:12Z",
-            "open_issues": 205,
+            "open_issues": 206,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2753,
+            "stars": 2755,
             "topics": [
               "android",
               "emulator",
@@ -172,10 +172,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-11-06T00:02:57Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 502,
+            "stars": 501,
             "topics": [
               "j2me"
             ]
@@ -194,7 +194,7 @@
             "id": 65408453,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-16T06:24:21Z",
+            "last_commit": "2026-11-17T09:28:14Z",
             "open_issues": 41,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
@@ -258,8 +258,8 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T02:32:46Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-16T23:18:55Z",
+            "open_issues": 15,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 224,
@@ -314,7 +314,7 @@
                 "open_issues": 14,
                 "owner": "gtrxAC",
                 "repo": "discord-j2me",
-                "stars": 455,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
@@ -360,7 +360,7 @@
                 "open_issues": 2,
                 "owner": "faissaloo",
                 "repo": "telegram-micro",
-                "stars": 95,
+                "stars": 94,
                 "topics": [
                   "j2me",
                   "telegram"
@@ -678,7 +678,7 @@
                 "open_issues": 61,
                 "owner": "Col-E",
                 "repo": "Recaf",
-                "stars": 7472,
+                "stars": 7473,
                 "topics": [
                   "agent",
                   "asm",
@@ -710,7 +710,7 @@
                 "id": 24747351,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T18:30:56Z",
+                "last_commit": "2026-11-17T05:43:21Z",
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
@@ -735,11 +735,11 @@
                 "id": 346465436,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T23:16:05Z",
-                "open_issues": 104,
+                "last_commit": "2026-11-17T00:13:14Z",
+                "open_issues": 107,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2470,
+                "stars": 2473,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:44:01.840Z",
+    "last_updated": "2026-11-17T09:51:36.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -799,7 +799,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-j2me",
-      "stars": 438,
+      "stars": 439,
       "topics": [
         "awesome",
         "awesome-list",
