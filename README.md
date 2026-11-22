@@ -10,7 +10,7 @@ Please give it a star(⭐) to raise awareness about J2ME community, and support 
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 540,184 | 🐛 103 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,593 | 🐛 53 | 📅 2026-09-23 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 540,717 | 🐛 103 | 📅 2026-09-02, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,607 | 🐛 54 | 📅 2026-09-23 and more.
 
 ## Contents
 
@@ -65,12 +65,12 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ## Emulators
 
-* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,754 | 🐛 206 | 🌐 C | 📅 2026-11-18 - J2ME emulator for Android.
-* [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 688 | 🐛 66 | 🌐 Java | 📅 2026-10-04 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
-* [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 506 | 🐛 70 | 🌐 Java | 📅 2026-11-20 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
+* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,753 | 🐛 206 | 🌐 C | 📅 2026-11-18 - J2ME emulator for Android.
+* [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 689 | 🐛 66 | 🌐 Java | 📅 2026-10-04 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
+* [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 509 | 🐛 62 | 🌐 Java | 📅 2026-11-21 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
 * [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 332 | 🐛 41 | 🌐 Java | 📅 2026-11-18 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
 * [JL Mod](https://github.com/woesss/JL-Mod) ⭐ 325 | 🐛 50 | 🌐 C | 📅 2026-04-11 - Fork of J2ME loader with Mascot capsule v3 support.
-* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 226 | 🐛 15 | 🌐 Java | 📅 2026-11-20 - Active fork of FreeJ2ME.
+* [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 228 | 🐛 15 | 🌐 Java | 📅 2026-11-22 - Active fork of FreeJ2ME.
 * [JS2 J2ME](https://github.com/szatkus/js2me) ⭐ 154 | 🐛 8 | 🌐 JavaScript | 📅 2022-03-28 - J2ME emulator for Firefox OS.
 * [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 
@@ -90,11 +90,11 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 * [Discord J2ME](https://github.com/gtrxAC/discord-j2me) ⭐ 456 | 🐛 14 | 🌐 Java | 📅 2026-11-02 - (Discontinued) Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
 * [Jtube](https://github.com/shinovon/JTube) ⚠️ Archived - YouTube client based on Invidious API.
 * [Telegram Micro](https://github.com/faissaloo/telegram-micro) ⭐ 95 | 🐛 2 | 🌐 Java | 📅 2026-08-10 - Telegram client.
-* [Hotpants](https://github.com/baumschubser/hotpants/) ⭐ 83 | 🐛 0 | 🌐 Java | 📅 2024-03-18 - HOTP/TOTP client.
+* [Hotpants](https://github.com/baumschubser/hotpants/) ⭐ 84 | 🐛 0 | 🌐 Java | 📅 2024-03-18 - HOTP/TOTP client.
 * [VK4ME](https://github.com/VK4ME/client) ⭐ 25 | 🐛 2 | 🌐 Java | 📅 2025-07-28  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
 * [Pocket Gopher](https://github.com/felixp7/pocket-gopher) ⚠️ Archived - Open source Gopher and Gopher+ client for J2ME.
 * [W4ME Station](https://github.com/mulfyx/w4me-station) ⭐ 21 | 🐛 0 | 🌐 Java | 📅 2026-08-01 - WASM-4 runtime for CLDC 1.1 / MIDP 2.0 phones, with bundled cartridges and support for loading external `.wasm` files.
-* [Discofi](https://github.com/gtrxAC/Discofi) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2026-11-20 - Unofficial Discord client for J2ME, designed to connect directly to Discord without a proxy. Supports select devices (Nokia and Sony Ericsson).
+* [Discofi](https://github.com/gtrxAC/Discofi) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2026-11-21 - Unofficial Discord client for J2ME, designed to connect directly to Discord without a proxy. Supports select devices (Nokia and Sony Ericsson).
 * [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various emulators that run on J2ME.
 * [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color, and save states.
 * [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
@@ -157,4 +157,4 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
