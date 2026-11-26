@@ -10,7 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Discord client for Java ME (MIDP 1.0 & 2.0) devices",
+            "description": "[OLD] Discord client for Java ME (MIDP 1.0 & 2.0) devices",
             "homepage": "https://gtrxac.fi/j2me",
             "id": 794295669,
             "language": "Java",
@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "SimonKagstrom",
             "repo": "cibyl",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:00.927Z"
@@ -88,7 +88,7 @@
                 "open_issues": 3,
                 "owner": "Enough-Software",
                 "repo": "j2mepolish",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:00.927Z"
@@ -116,11 +116,11 @@
             "id": 91971028,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T20:31:59Z",
-            "open_issues": 204,
+            "last_commit": "2026-11-26T10:02:07Z",
+            "open_issues": 205,
             "owner": "nikita36078",
             "repo": "J2ME-Loader",
-            "stars": 2755,
+            "stars": 2759,
             "topics": [
               "android",
               "emulator",
@@ -175,7 +175,7 @@
             "open_issues": 53,
             "owner": "shinovon",
             "repo": "KEmulator",
-            "stars": 511,
+            "stars": 512,
             "topics": [
               "j2me"
             ]
@@ -198,7 +198,7 @@
             "open_issues": 41,
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
-            "stars": 333,
+            "stars": 334,
             "topics": [
               "c",
               "compiler",
@@ -232,10 +232,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-04-11T19:24:46Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "woesss",
             "repo": "JL-Mod",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "android",
               "j2me",
@@ -258,8 +258,8 @@
             "id": 855820693,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T20:51:27Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-26T04:56:54Z",
+            "open_issues": 16,
             "owner": "TASEmulators",
             "repo": "freej2me-plus",
             "stars": 232,
@@ -305,7 +305,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Discord client for Java ME (MIDP 1.0 & 2.0) devices",
+                "description": "[OLD] Discord client for Java ME (MIDP 1.0 & 2.0) devices",
                 "homepage": "https://gtrxac.fi/j2me",
                 "id": 794295669,
                 "language": "Java",
@@ -356,7 +356,7 @@
                 "id": 252428123,
                 "language": "Java",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-10T08:03:39Z",
+                "last_commit": "2026-11-26T07:23:59Z",
                 "open_issues": 2,
                 "owner": "faissaloo",
                 "repo": "telegram-micro",
@@ -507,7 +507,7 @@
                 "open_issues": 0,
                 "owner": "gtrxAC",
                 "repo": "Discofi",
-                "stars": 11,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-11-15T08:34:48.394Z"
@@ -574,7 +574,7 @@
             "open_issues": 1,
             "owner": "hstsethi",
             "repo": "awesome-symbian",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "awesome",
               "awesome-list",
@@ -674,8 +674,8 @@
                 "id": 98499283,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-02T12:42:57Z",
-                "open_issues": 63,
+                "last_commit": "2026-11-26T08:12:04Z",
+                "open_issues": 60,
                 "owner": "Col-E",
                 "repo": "Recaf",
                 "stars": 7489,
@@ -710,7 +710,7 @@
                 "id": 24747351,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T06:51:10Z",
+                "last_commit": "2026-11-26T09:52:34Z",
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
@@ -739,7 +739,7 @@
                 "open_issues": 107,
                 "owner": "Vineflower",
                 "repo": "vineflower",
-                "stars": 2487,
+                "stars": 2489,
                 "topics": [
                   "decompiler",
                   "fernflower",
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T10:38:48.757Z",
+    "last_updated": "2026-11-26T10:09:43.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
